@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🧑‍🎓 About Me
 
-<!--
-**hrabovskyyy/hrabovskyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 `Student developer` at KPI (Kyiv Polytechnic Institute)  
+🧠 Passionate about solving problems through code  
+🚀 Always curious about architecture, logic and optimization  
+🎯 Focus: `Telegram Bots`, `.NET Web APIs`, `Automation`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+
+📬 `Telegram:` [@hrabovskyy](https://t.me/hrabovskyy)  
+🔗 `LinkedIn:` [linkedin.com/in/hrabovskyy](https://linkedin.com/in/hrabovskyy)
+
+---
+
+## 🛠 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrabovskyyy&layout=compact&theme=tokyonight)
