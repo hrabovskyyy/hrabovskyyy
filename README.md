@@ -1,8 +1,6 @@
 ## 🧑‍🎓 About Me
 
 🎓 `Student developer` at KPI (Kyiv Polytechnic Institute)  
-🧠 Passionate about solving problems through code  
-🚀 Always curious about architecture, logic and optimization  
 🎯 Focus: `Telegram Bots`, `.NET Web APIs`, `Automation`
 
 ---
